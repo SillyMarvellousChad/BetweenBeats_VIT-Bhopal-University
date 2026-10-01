@@ -1,0 +1,12 @@
+{
+  "calibration_patients": 150,
+  "recordings": 10434,
+  "val_patients": 30,
+  "val_recordings": 2111,
+  "mae": 0.4964875685962945,
+  "rmse": 0.6200218820047788,
+  "rmse_personalised": 0.6157636999412888,
+  "rmse_unpersonalised": 0.7009793486851812,
+  "corr": 0.81838606404405,
+  "auroc_k_ge_5_5": 0.9768721133938525
+}

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/train_features.csv.gz
+data/test_features.csv.gz
+data/*_cohort.csv
+reports/*.log
+.DS_Store

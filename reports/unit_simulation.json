@@ -1,0 +1,235 @@
+{
+  "patients_per_unit": 60,
+  "evaluation_weeks": 8.0,
+  "replicates": 6,
+  "summary": {
+    "hyperk_episodes|mean": {
+      "Antaral (+ standby machine for re-timing)": 180.33,
+      "Antaral (same machines)": 176.5,
+      "Fixed weekly pattern": 198.83
+    },
+    "hyperk_episodes|std": {
+      "Antaral (+ standby machine for re-timing)": 16.1,
+      "Antaral (same machines)": 21.34,
+      "Fixed weekly pattern": 15.85
+    },
+    "patient_hours_k_ge_6|mean": {
+      "Antaral (+ standby machine for re-timing)": 5850.83,
+      "Antaral (same machines)": 5644.5,
+      "Fixed weekly pattern": 5968.5
+    },
+    "patient_hours_k_ge_6|std": {
+      "Antaral (+ standby machine for re-timing)": 722.19,
+      "Antaral (same machines)": 712.89,
+      "Fixed weekly pattern": 678.01
+    },
+    "patient_hours_k_ge_6_5|mean": {
+      "Antaral (+ standby machine for re-timing)": 3553.33,
+      "Antaral (same machines)": 3406.67,
+      "Fixed weekly pattern": 3539.67
+    },
+    "patient_hours_k_ge_6_5|std": {
+      "Antaral (+ standby machine for re-timing)": 632.26,
+      "Antaral (same machines)": 626.68,
+      "Fixed weekly pattern": 716.5
+    },
+    "patient_hours_k_ge_7|mean": {
+      "Antaral (+ standby machine for re-timing)": 2159.17,
+      "Antaral (same machines)": 2080.33,
+      "Fixed weekly pattern": 2066.5
+    },
+    "patient_hours_k_ge_7|std": {
+      "Antaral (+ standby machine for re-timing)": 589.62,
+      "Antaral (same machines)": 539.44,
+      "Fixed weekly pattern": 725.18
+    },
+    "danger_hours_weighted|mean": {
+      "Antaral (+ standby machine for re-timing)": 11563.33,
+      "Antaral (same machines)": 11131.5,
+      "Fixed weekly pattern": 11574.67
+    },
+    "danger_hours_weighted|std": {
+      "Antaral (+ standby machine for re-timing)": 1888.44,
+      "Antaral (same machines)": 1834.14,
+      "Fixed weekly pattern": 2055.65
+    },
+    "pre_dialysis_k_ge_6|mean": {
+      "Antaral (+ standby machine for re-timing)": 160.83,
+      "Antaral (same machines)": 159.67,
+      "Fixed weekly pattern": 187.33
+    },
+    "pre_dialysis_k_ge_6|std": {
+      "Antaral (+ standby machine for re-timing)": 16.4,
+      "Antaral (same machines)": 19.21,
+      "Fixed weekly pattern": 15.64
+    },
+    "patients_with_any_k_ge_6|mean": {
+      "Antaral (+ standby machine for re-timing)": 28.5,
+      "Antaral (same machines)": 28.0,
+      "Fixed weekly pattern": 28.5
+    },
+    "patients_with_any_k_ge_6|std": {
+      "Antaral (+ standby machine for re-timing)": 3.51,
+      "Antaral (same machines)": 3.63,
+      "Fixed weekly pattern": 2.59
+    },
+    "sessions|mean": {
+      "Antaral (+ standby machine for re-timing)": 1148.0,
+      "Antaral (same machines)": 1148.0,
+      "Fixed weekly pattern": 1148.0
+    },
+    "sessions|std": {
+      "Antaral (+ standby machine for re-timing)": 16.59,
+      "Antaral (same machines)": 16.59,
+      "Fixed weekly pattern": 16.59
+    },
+    "reschedules_per_week|mean": {
+      "Antaral (+ standby machine for re-timing)": 26.85,
+      "Antaral (same machines)": 46.71,
+      "Fixed weekly pattern": 0.0
+    },
+    "reschedules_per_week|std": {
+      "Antaral (+ standby machine for re-timing)": 5.42,
+      "Antaral (same machines)": 9.01,
+      "Fixed weekly pattern": 0.0
+    }
+  },
+  "reduction_vs_fixed": {
+    "Antaral (same machines)": {
+      "hyperk_episodes": {
+        "mean_reduction_pct": 11.23218776194468,
+        "per_replicate_pct": [
+          11.2,
+          20.1,
+          2.3,
+          10.6,
+          1.1,
+          21.6
+        ]
+      },
+      "patient_hours_k_ge_6": {
+        "mean_reduction_pct": 5.428499623020855,
+        "per_replicate_pct": [
+          8.2,
+          0.6,
+          2.2,
+          11.6,
+          0.4,
+          9.4
+        ]
+      },
+      "patient_hours_k_ge_6_5": {
+        "mean_reduction_pct": 3.7574159525379014,
+        "per_replicate_pct": [
+          6.0,
+          -4.6,
+          1.7,
+          9.9,
+          3.4,
+          3.4
+        ]
+      },
+      "patient_hours_k_ge_7": {
+        "mean_reduction_pct": -0.6694088232922057,
+        "per_replicate_pct": [
+          -0.1,
+          -11.6,
+          -9.9,
+          10.3,
+          8.4,
+          -18.1
+        ]
+      },
+      "danger_hours_weighted": {
+        "mean_reduction_pct": 3.828763967284876,
+        "per_replicate_pct": [
+          6.0,
+          -2.8,
+          0.3,
+          10.8,
+          3.1,
+          3.7
+        ]
+      },
+      "pre_dialysis_k_ge_6": {
+        "mean_reduction_pct": 14.768683274021354,
+        "per_replicate_pct": [
+          12.4,
+          16.3,
+          10.4,
+          15.3,
+          8.4,
+          26.2
+        ]
+      }
+    },
+    "Antaral (+ standby machine for re-timing)": {
+      "hyperk_episodes": {
+        "mean_reduction_pct": 9.304274937133272,
+        "per_replicate_pct": [
+          12.1,
+          15.9,
+          4.2,
+          7.4,
+          -0.6,
+          15.9
+        ]
+      },
+      "patient_hours_k_ge_6": {
+        "mean_reduction_pct": 1.9714612828460543,
+        "per_replicate_pct": [
+          4.5,
+          1.1,
+          -0.6,
+          7.6,
+          -2.3,
+          1.8
+        ]
+      },
+      "patient_hours_k_ge_6_5": {
+        "mean_reduction_pct": -0.38610038610038533,
+        "per_replicate_pct": [
+          -0.6,
+          -5.3,
+          -0.3,
+          5.9,
+          1.0,
+          -6.1
+        ]
+      },
+      "patient_hours_k_ge_7": {
+        "mean_reduction_pct": -4.484232599403182,
+        "per_replicate_pct": [
+          -9.6,
+          -11.3,
+          -9.0,
+          8.9,
+          4.8,
+          -26.7
+        ]
+      },
+      "danger_hours_weighted": {
+        "mean_reduction_pct": 0.09791498675267851,
+        "per_replicate_pct": [
+          0.3,
+          -2.7,
+          -1.8,
+          7.3,
+          0.3,
+          -4.7
+        ]
+      },
+      "pre_dialysis_k_ge_6": {
+        "mean_reduction_pct": 14.145907473309604,
+        "per_replicate_pct": [
+          13.9,
+          17.5,
+          11.4,
+          12.4,
+          9.5,
+          20.5
+        ]
+      }
+    }
+  }
+}

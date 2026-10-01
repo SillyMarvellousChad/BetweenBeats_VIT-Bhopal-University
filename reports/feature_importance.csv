@@ -1,0 +1,43 @@
+feature,label,mean_abs_shap
+tw_p_exceed,Twin forecast: chance of K ≥ 6 before session,0.8466835898847793
+last_lab_k,Last pre-dialysis potassium lab,0.6126013876630565
+tw_peak_mean,Twin forecast: expected peak potassium,0.3647885426062838
+tw_p_severe,Twin forecast: chance of K ≥ 6.5,0.25973747263863933
+days_since_lab,days_since_lab,0.18126988864432517
+tw_drift_day,Learned personal potassium drift,0.1565261739159364
+ecg_k_last,Latest smartwatch-ECG potassium,0.12998994444361334
+d_pr_ms_last,PR interval vs personal baseline,0.1049805394266723
+bicarbonate,bicarbonate,0.07860511624924528
+dry_weight_kg,dry_weight_kg,0.07314784425909315
+tw_k_end_mean,Twin forecast: potassium at session start,0.06744339650194728
+age,age,0.047245184941807024
+tw_k_end_sd,tw_k_end_sd,0.03359862062636715
+d_t_fwhm_last,T-wave width vs personal baseline,0.025571426076787824
+vintage_months,vintage_months,0.02306298226999863
+tw_k,Twin estimate: potassium now,0.02302620608485399
+ecg_k_change,ecg_k_change,0.021882031613562697
+rest_hr_delta,Resting heart rate vs personal normal,0.021773902436082942
+hours_to_next,Hours until next session,0.02164711746666714
+urine_ml_day,Residual urine output,0.01917540954866615
+hd_freq,Sessions per week,0.018763939748976274
+d_log_t_r_last,T-wave height vs personal baseline,0.01785303946406071
+tw_drift_sd_day,tw_drift_sd_day,0.01782316446869091
+diabetes,Diabetes,0.016988740293985023
+steps_ratio,Steps vs personal normal,0.015173134524428616
+n_ecg_48h,n_ecg_48h,0.011976093839910417
+sleep_delta,sleep_delta,0.011407437509599022
+logged_meq_since_session,Logged potassium-rich food since session,0.009662881275188226
+d_qrs_ms_last,QRS width vs personal baseline,0.00595529238725936
+rmssd_ratio,rmssd_ratio,0.005442341119193733
+tw_k_sd,Twin uncertainty now,0.004119568541216393
+beta_blocker,beta_blocker,0.003939682825698773
+sbp_last,sbp_last,0.0038518484631893447
+logged_meq_24h,"Logged potassium-rich food, 24 h",0.0033517947717793986
+ace_arb,On ACE inhibitor / ARB,0.002794484291243369
+hours_since_last,Hours since last session,0.0023687388971768827
+fluid_obs_pct,Weight gain (% of dry weight),0.0023011436389090215
+fluid_obs_kg,Weight above dry weight,0.0017152626769979574
+ecg_age_h,ecg_age_h,0.001402092024937355
+weight_rate_kg_day,weight_rate_kg_day,0.0010075296147661823
+has_ecg_baseline,has_ecg_baseline,0.0
+coconut_since_session,Coconut water since session,0.0
