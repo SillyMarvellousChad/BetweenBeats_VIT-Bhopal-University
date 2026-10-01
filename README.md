@@ -28,7 +28,7 @@ are dialysed first. It adds no sessions and needs no new machines.
 | Demo video (15–20 min, unlisted YouTube) | **TODO: add link** |
 | Open-source license | [MIT](LICENSE) |
 | Architecture diagram (PDF) | [`docs/architecture.pdf`](docs/architecture.pdf) |
-| Presentation (PDF/PPT) with project details and outcomes | **TODO: `docs/presentation.pdf`** |
+| Presentation (PDF/PPT) with project details and outcomes | [`docs/Antaral_BetweenBeats_presentation.pdf`](docs/Antaral_BetweenBeats_presentation.pdf) · [PPTX](docs/Antaral_BetweenBeats_presentation.pptx) |
 | All files and links public | Repository is public; every file is in this repo |
 
 ## Team
@@ -219,10 +219,10 @@ antaral/
   risk_model.py      LightGBM + calibration + SHAP
   scheduler.py       fixed schedule and Antaral MILP scheduler
   pipeline.py        runs a unit: simulator + twins + policy
-scripts/             one script per stage (see Makefile)
+scripts/             one script per stage (see Makefile); build_deck.js makes the slides
 app/dashboard.py     Streamlit doctor's dashboard
 reports/             metrics, ablation, simulation results
-docs/                architecture diagram, screenshots
+docs/                architecture diagram, presentation (PDF + PPTX), screenshots
 tests/               physiology, ECG, twin and scheduler checks
 ```
 
