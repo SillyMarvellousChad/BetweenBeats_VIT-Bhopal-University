@@ -18,24 +18,31 @@ are dialysed first. It adds no sessions and needs no new machines.
 
 | Required item | Where |
 |---|---|
-| Team details and college / incubator | [below](#team) |
+| Team details | [Team](#team) |
+| College / incubator information | [Team](#team) |
 | Project title | Antaral: A Digital Twin for the Gap Between Dialysis Sessions |
-| Problem statement and healthcare use case | [Problem](#the-problem) |
-| Technical stack, AI/ML model / framework details | [How it works](#how-it-works), [Tech stack](#tech-stack) |
-| Video (≥ 20 min) | **TODO: add unlisted YouTube link** |
+| Problem statement | [The problem](#the-problem) |
+| Healthcare use case | [Use case](#the-problem) |
+| Technical stack | [Tech stack](#tech-stack) |
+| AI/ML model and framework details | [How it works](#how-it-works) |
+| Demo video (15–20 min, unlisted YouTube) | **TODO: add link** |
 | Open-source license | [MIT](LICENSE) |
 | Architecture diagram (PDF) | [`docs/architecture.pdf`](docs/architecture.pdf) |
-| Presentation (PDF/PPT) | **TODO: `docs/presentation.pdf`** |
+| Presentation (PDF/PPT) with project details and outcomes | **TODO: `docs/presentation.pdf`** |
+| All files and links public | Repository is public; every file is in this repo |
 
 ## Team
 
 | | |
 |---|---|
-| Team name | **TODO** |
-| Team leader | Nishant Majumdar, B.Tech Computer Science & Engineering (2027) |
-| College | VIT Bhopal University |
-| Members | **TODO** |
-| Contact | **TODO** |
+| Team name | **Between Beats** |
+| Team size | 1 (solo entry) |
+| Team leader | Nishant Majumdar, B.Tech Computer Science & Engineering (graduating 2027) |
+| College / incubator | VIT Bhopal University, Madhya Pradesh |
+| GitHub | [github.com/SillyMarvellousChad](https://github.com/SillyMarvellousChad) |
+
+*Why "Between Beats":* Antaral watches two kinds of interval: the gap between dialysis sessions, and the
+heartbeat itself, where rising potassium shows up first as a peaked T wave.
 
 ---
 
