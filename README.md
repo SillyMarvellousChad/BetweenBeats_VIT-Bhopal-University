@@ -11,7 +11,7 @@ patient's electronic health record with a smartwatch ECG and home devices. Then 
 are dialysed first. It adds no sessions and needs no new machines.
 
 [![Live demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/)
-&nbsp; **▶ [Open the live dashboard](https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/)** · no install needed (if it says the app is asleep, click "wake up" and wait ~30 s)
+&nbsp; **🎬 [Watch the demo video](https://youtu.be/fTqOFjxZR00)** ·&nbsp; **▶ [Open the live dashboard](https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/)** · no install needed (if it says the app is asleep, click "wake up" and wait ~30 s)
 
 ![Antaral dashboard](docs/screenshots/unit_tonight.png)
 
@@ -29,7 +29,7 @@ are dialysed first. It adds no sessions and needs no new machines.
 | Healthcare use case | [Use case](#the-problem) |
 | Technical stack | [Tech stack](#tech-stack) |
 | AI/ML model and framework details | [How it works](#how-it-works) |
-| Demo video (15–20 min, unlisted YouTube) | **TODO: add link** |
+| Demo video (15–20 min, unlisted YouTube) | [https://youtu.be/fTqOFjxZR00](https://youtu.be/fTqOFjxZR00) |
 | Open-source license | [MIT](LICENSE) |
 | Architecture diagram (PDF) | [`docs/architecture.pdf`](docs/architecture.pdf) |
 | Presentation (PDF/PPT) with project details and outcomes | [`docs/Antaral_BetweenBeats_presentation.pdf`](docs/Antaral_BetweenBeats_presentation.pdf) · [PPTX](docs/Antaral_BetweenBeats_presentation.pptx) |
