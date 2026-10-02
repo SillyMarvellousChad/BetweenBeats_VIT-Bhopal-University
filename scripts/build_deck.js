@@ -302,6 +302,7 @@ s.addText("Same chairs. Same sessions.\nFewer people arriving in danger.", { x: 
 s.addText([
   { text: "Antaral  ·  Team Between Beats  ·  Nishant Majumdar, VIT Bhopal University", options: { color: C.mint, breakLine: true } },
   { text: "github.com/SillyMarvellousChad/BetweenBeats_VIT-Bhopal-University", options: { color: "B8D4D0", breakLine: true } },
+  { text: "Live demo: betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app", options: { color: "B8D4D0", breakLine: true } },
   { text: "Research prototype for clinician decision support. Synthetic data only. Not a medical device.", options: { color: "8FB0AC", fontSize: 12 } },
 ], { x: 0.6, y: 3.85, w: 12, h: 1.2, fontFace: B, fontSize: 15, margin: 0, paraSpaceAfter: 4, isTextBox: true });
 s.addNotes("Antaral: same chairs, same sessions, fewer people arriving in danger. Everything is open source on GitHub. Thank you.");

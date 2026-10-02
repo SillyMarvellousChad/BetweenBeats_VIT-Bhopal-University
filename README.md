@@ -10,6 +10,9 @@ patient's electronic health record with a smartwatch ECG and home devices. Then 
 **uses those forecasts to re-plan the dialysis unit's chairs every evening**, so the patients heading for danger
 are dialysed first. It adds no sessions and needs no new machines.
 
+[![Live demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/)
+&nbsp; **▶ [Open the live dashboard](https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/)** · no install needed (if it says the app is asleep, click "wake up" and wait ~30 s)
+
 ![Antaral dashboard](docs/screenshots/unit_tonight.png)
 
 ---
@@ -21,6 +24,7 @@ are dialysed first. It adds no sessions and needs no new machines.
 | Team details | [Team](#team) |
 | College / incubator information | [Team](#team) |
 | Project title | Antaral: A Digital Twin for the Gap Between Dialysis Sessions |
+| Live prototype | [https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/](https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/) |
 | Problem statement | [The problem](#the-problem) |
 | Healthcare use case | [Use case](#the-problem) |
 | Technical stack | [Tech stack](#tech-stack) |
@@ -197,6 +201,8 @@ evaluation only. **Next step for validation:** MIMIC-IV with its linked ECG modu
 which contains dialysis patients with potassium labs and ECGs, then a prospective study with an Indian dialysis unit.
 
 ## Run it
+
+**Live:** https://betweenbeatsvit-bhopal-university-cmf2hewrxvj5wfdtksbfho.streamlit.app/
 
 ```bash
 pip install -r requirements.txt
